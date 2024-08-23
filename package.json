@@ -1,0 +1,14 @@
+{
+  "name": "instrument_design_studio_portfolio_template_-_(get_my_figma_files_patreon)",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel ./*.html ",
+    "build": "parcel build ./*.html  --dist-dir ./build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
